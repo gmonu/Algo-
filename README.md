@@ -2,7 +2,7 @@
 An android application which is having features to sort the numerical data by different sorting algorithms.
 
 Software used: Android Studio
-Language used: Java
+Language used: Java & XML
 
 Features of this application:
     It can sort the data by following algorithms:
